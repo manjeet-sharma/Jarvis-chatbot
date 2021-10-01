@@ -16,3 +16,5 @@ As We Know Time Does Not Exist Brother.'''
 '''Iam iron man and i am inevitable.'''
 #neem ka patta
 '''is useful.'''
+# Quotes
+Nothing Is Impossible For Us!
