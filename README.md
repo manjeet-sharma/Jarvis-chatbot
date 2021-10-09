@@ -18,3 +18,5 @@ As We Know Time Does Not Exist Brother.'''
 '''is useful.'''
 # Quotes
 Nothing Is Impossible For Us!
+# mgc premiers
+tshirt
