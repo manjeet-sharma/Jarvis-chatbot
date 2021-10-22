@@ -22,4 +22,6 @@ Nothing Is Impossible For Us!
 tshirt
 # Bhai Biryani  Khilayenge Sath Me Chai pilayenge 
 # bhaiya t-shirt dedo
+''' kch toh chahiye'''
 # thug life
+'''aise nhi jayega main'''
